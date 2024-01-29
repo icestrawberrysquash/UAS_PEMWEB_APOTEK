@@ -1,0 +1,20 @@
+
+
+<div class="row">
+  <div class="col-md-12">
+    <table class="table table-bordered table-hover bgcolor-white">
+      <tbody><tr><th>#Id</th> <th>Nama</th> <th>Kode obat</th> <th>Jumlah</th> <th>Harga</th> <th>Kategori</th> <th>Keterangan</th> <th>Total</th></tr>
+      <tr><td>3</td><td>jah</td><td>k008</td><td>17</td><td>200058</td><td>obat terbatas</td> <td>obat ampuhp</td> <td>200000</td></tr><tr><td>4</td><td>kunyit</td><td>k004</td><td>2</td><td>20000</td><td>obat narkotika</td> <td>jahe mantap</td> <td>20000</td></tr><tr><td>5</td><td>gokil</td><td>lala</td><td>30</td><td>20000</td><td>obat keras</td> <td>cek</td> <td>20000</td></tr><tr><td>7</td><td>obatlah</td><td>k004</td><td>2</td><td>30000</td><td>obat terbatas</td> <td>obat yang manjur</td> <td>60000</td></tr><tr><td>8</td><td>obatlah</td><td>k005</td><td>2</td><td>30000</td><td>obat terbatas</td> <td>obat yang manjur</td> <td>60000</td></tr><tr><td>9</td><td>ada aja</td><td>k006</td><td>2</td><td>3</td><td>Kategori</td> <td>adalah keterangan yang lumayan banyak kan..</td> <td>3</td></tr><tr><td>10</td><td>gola gola</td><td>k007</td><td>10</td><td>20</td><td>obat bebas</td> <td>gola gola</td> <td>20</td></tr><tr><td>11</td><td>obatlah</td><td>k008</td><td>2</td><td>30000</td><td>obat terbatas</td> <td>obat yang manjur</td> <td>60000</td></tr><tr><td>12</td><td>obatlah</td><td>k009</td><td>2</td><td>30000</td><td>obat terbatas</td> <td>obat yang manjur</td> <td>60000</td></tr><tr><td>13</td><td>obatlah</td><td>k010</td><td>2</td><td>30000</td><td>obat terbatas</td> <td>obat yang manjur</td> <td>60000</td></tr>
+      </tbody></table>
+  </div>
+
+<!-- paging untuk transaksi -->
+  <div class="col-md-12">
+    <ul class="pagination padding5">
+      <li><a class="page-caption" style="color: white; background: rgb(51, 51, 51);"><b>Page::</b></a></li>
+      <li class="active"><a href="?action=transaksi&amp;page=1&amp;limit=10">1</a></li><li><a href="?action=transaksi&amp;page=2&amp;limit=10">2</a></li><li><a href="?action=transaksi&amp;page=3&amp;limit=10">3</a></li><li><a href="?action=transaksi&amp;page=4&amp;limit=10">4</a></li><li><a href="?action=transaksi&amp;page=5&amp;limit=10">5</a></li><li><a href="?action=transaksi&amp;page=6&amp;limit=10">6</a></li><li><a href="?action=transaksi&amp;page=7&amp;limit=10">7</a></li><li><a href="?action=transaksi&amp;page=8&amp;limit=10">8</a></li><li><a href="?action=transaksi&amp;page=9&amp;limit=10">9</a></li><li><a href="?action=transaksi&amp;page=10&amp;limit=10">10</a></li><li><a href="?action=transaksi&amp;page=11&amp;limit=10">11</a></li><li><a href="?action=transaksi&amp;page=12&amp;limit=10">12</a></li><li><a href="?action=transaksi&amp;page=13&amp;limit=10">13</a></li><li><a href="?action=transaksi&amp;page=14&amp;limit=10">14</a></li>    </ul>
+
+  </div>
+</div>
+
+<!-- pagination transaksi -->
